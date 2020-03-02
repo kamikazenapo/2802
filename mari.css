@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap');
+.text-title {
+    font-family: 'Kaushan Script';
+    font-size: 7em;
+}
+
+.bg-dale {
+    background-image: linear-gradient(to bottom right, #ff5e57, #ffdd59);
+}
+
+.beijinho {
+    font-size: 2em;
+}
