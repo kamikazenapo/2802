@@ -5,7 +5,12 @@
 }
 
 .bg-dale {
-    background-image: linear-gradient(to bottom right, #ff5e57, #ffdd59);
+    /* background-image: linear-gradient(to bottom right, #ff5e57, #ffdd59); */
+
+    background: url('img/20-das-fotos-astronomicas-mais-legais-de-2019.webp') center center no-repeat;
+    background-size: cover;
+
+
 }
 
 .beijinho {
