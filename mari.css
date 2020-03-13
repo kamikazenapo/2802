@@ -17,5 +17,7 @@
     font-size: 2em;
 }
 .fundo{
-    background-color: #a82700;
+    background-color: rgb(128, 19, 0);
+    background-image: linear-gradient(to bottom right, #EA2027, #FFC312);
+
 }
